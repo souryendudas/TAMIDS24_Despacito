@@ -10,7 +10,7 @@ The repository is organized as follows:
 
 Our analysis consists of data exploration, modeling and data mining mainly focus on the [Copernicus](http://climate.copernicus.eu) dataset.
 
-For more details regarding our work, visit the [website](https://tamids24-slr.streamlit.app/).
+
 
 
 ## Contributors
